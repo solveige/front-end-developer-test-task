@@ -1,0 +1,5 @@
+export const SUBMIT_BUTTON_TEXT = 'До кошика'
+export const FORM_COLUMN_TITLE_RIGHT = 'Ціна'
+export const FORM_COLUMN_TITLE_LEFT = 'Тип'
+export const UAH = 'грн'
+export const GRAM = 'г'
